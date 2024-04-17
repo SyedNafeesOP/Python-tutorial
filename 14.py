@@ -22,5 +22,3 @@ print(factorial(5))
 print(factorial(4))    
 print(factorial(3))    
     
-
-    
