@@ -87,9 +87,11 @@ class car:
     def __init__ (self,name) :
         self.name=name
 
+    # @staticmethod
     def amazing():
         print("amazing")
 
     amazing()   
 
-        
+c1=car("Mercedes")       
+print(c1.name)
