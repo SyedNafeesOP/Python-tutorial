@@ -95,3 +95,4 @@ class car:
 
 c1=car("Mercedes")       
 print(c1.name)
+
